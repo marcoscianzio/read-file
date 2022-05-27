@@ -19,7 +19,7 @@ public class Comercial extends Cliente implements Gasto {
         this.direccion = direccion;
     }
 
-    public void setRut(long Rut) {
+    public void setRut(long rut) {
         this.rut = rut;
     }
 
